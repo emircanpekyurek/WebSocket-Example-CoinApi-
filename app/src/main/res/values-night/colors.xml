@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="item_vertical_title">#EEEEEE</color>
+    <color name="item_vertical_sub_title">#BCBCBC</color>
+
+    <color name="blue">#00b</color>
+    <color name="green">#0b0</color>
+    <color name="red">#b00</color>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WebSocketExample</string>
+
+    <!--exceptions-->
+    <string name="exception_service_null_response">Null Response</string>
+    <string name="exception_service_generic_error_message">Error!</string>
+    <string name="exception_service_fail_response_with_status">Error! Response Code : %1$d</string>
+    <string name="exception_title_generic_error">Error</string>
+    <string name="exception_title_service_error">Service Error</string>
+
+</resources>
